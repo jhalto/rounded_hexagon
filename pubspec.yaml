@@ -1,8 +1,7 @@
 name: rounded_hexagon
 description: "A Flutter clipper widget to draw a hexagon with rounded corners."
 version: 0.0.1
-author: jhalto <zobayerarmannadim@gmail.com>
-homepage:
+homepage: "https://github.com/jhalto/rounded_hexagon"
 
 environment:
   sdk: ^3.8.1
